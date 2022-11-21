@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "v.rosendo5",
+      "clave": "J.12mm5",
+      "id_rol": 1
+    },
+    {
+      "id": 2,
+      "nombre": "j.baez5",
+      "clave": "B.34vf5",
+      "id_rol": 2
+    },
+    {
+      "id": 3,
+      "nombre": "a.diaz5",
+      "clave": "C.54yt75",
+      "id_rol": 2
+    }
+  ],
+  "ramos": [
+    {
+      "id": 1,
+      "sigla": "PGY4237",
+      "nombre": "Programación de Base de Datos"
+    },
+    {
+      "id": 2,
+      "sigla": "PGY4121",
+      "nombre": "Programación de aplicaciones móviles II"
+    }
+  ]
+}
